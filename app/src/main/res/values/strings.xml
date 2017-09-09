@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicSearchApp</string>
+
+    <string name="artist_name">Artist Name</string>
+    <string name="album_name">Album Name</string>
+    <string name="album_image">Album Image</string>
+    <string name="track_name">Track Name</string>
+    <string name="hint_search">Type Artist Name or Song</string>
+    <string name="search">Search</string>
+    <string name="error_results">Error: No Results</string>
+    <string name="lyrics_not_found">Lyrics not found!</string>
+
+</resources>
