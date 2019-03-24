@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/4a94e72bdf9a5e1eb334ee4aa9a47374fb73c121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_b45bd2618a3afe36a75689e4f4c0f895ed8e9119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/7bcc1c2b5dfb0a09b31a0a4c1895c721f09706fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_6b5865921a6cdff68d7ffd6f1188043dd8cd1a30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/c56fa3d73f54167ef1c103f020c90ebd326ac01a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_23bc274c33dd622ebf390d05bd375c807a9d301d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0_e469b6f26bd72058f69a4bf0c163fad70bdcd38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/collections-28.0.0_40edc26de8843fe69050314838085cc184c6878e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/346ae0de2560db8f8364a3f24df4b7b53b9b15a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_63a1b43a4e9f44b2e93d0dbea1a2caa24bc14cd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/a6a20f1b2236498ef7b67ef87b2dff2031174f0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_fbacb35c46224ec9c9508dd7f6dce3b419202420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/e52330b0c6c877e5397a6c84b19c5e2e54b5f25d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_408faa1af007444f1f9cf971785e30bee25dc273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/890cc05b23e01cdc92546543f860918bb0fb22ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_d8da203b3e23db15e237187302a0b5f8d8a9bb6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.3_798bf80b6935dc76bad7cbc089b5aac39ed10fc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/9d239c1fc11e1d8e9d38a6c738c3cfa4a7dc4a2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_9dbdb8d046fd466726e1ac16544bc45030b61fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/a8ceeec88720684e49ff8a1c90fce7cdc9e56f15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_4df386a03ea1914aeb968e85d9835b520bc44308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/common-1.1.1_790de21e7be8ddff939bb6001a4c157938c5016b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/f8ef9da8604454374e68413d7a7d91e312bf2370/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_cd87f324888ec0261578beecbcc79ba4bf2ec11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/31327204fb123489a7e59b4c4867e11acc4dd1e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_85188e14fa5a25aeb3a71727ee5737c756bc27fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/9445741fea72fe9cea0948378587295854345faf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_81bb4f5cf1663f404913283779d07f02d7d1ff7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/c56fa3d73f54167ef1c103f020c90ebd326ac01a/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_6d7c9bcbf0885ab592724a0bbbd7dfdf22827ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/777da1ef6c00c7876aa79092548332bb05d842d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_1a7c945855401baf1ff7a3ca653ace39af808e5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/868ba503392e6b0953c0d42321c38ac68b9c5d67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_318508a3ec98a58fec75f081d2d25804d28c8490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/55c34f3285ee88808a90bfe93f19a4fd48ea9f58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_475762e2ed416f95455670b35c3065a28d79699c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/56f7cb85a61a4a5172abaab81c50b966ccaf676e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_0c7308486e4bfd4e8db04245582772270b6a4245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_2055112a3e3eb66cfc37da6d7eb43ea05bb82ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/14e713e018c3d0465b769cfc10cc223cd8745dd2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3fec43a847d8788b7642a1932e6266ef8bdab169">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_83d84279fb5744b6650e748a61b6ccf3a9d538e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/0eaa54a65c17a82fdfa04fa656368cb347c5b231/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_ca71ccfc1bbd262b93158643bdb25ad1690328c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-simplexml/2.3.0/978a360e2e1b85b3c3d30fb4230be6eddd8397e4/converter-simplexml-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="978a360e2e1b85b3c3d30fb4230be6eddd8397e4">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/converter-simplexml-2.3.0_deaa7077760ca517af2f020756e3bc63852d1011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.4.0/15d7790ee311d961379c51b00aba12d5967cb7ea/converter-gson-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="15d7790ee311d961379c51b00aba12d5967cb7ea">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/converter-gson-2.4.0_72574776a5199312ebee5bc5ebe2cf9341258a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/900f67996e901c03ec0c906c3b1e4a13f1ec2b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_a878add248284ab2c725fcb65a562dea40ed3704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/b689856789b6f6fcf2e67edd8db6bf0f67bacac9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="598b5d6a8e6168d5b4a18c45ccade14e04191696">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_e086de97dbf0837d5a539b7a4f68460d665d603c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/4cdc2b2b7f39591a1341c7b8cbe33aa87dc24904/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_652a5e39db85c3126f03885fd77884701e727bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.9.0/3bf7f8d6a20c90ffe9fc3f3c9118193c7720ecf1/logging-interceptor-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3bf7f8d6a20c90ffe9fc3f3c9118193c7720ecf1">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.9.0_8c9625fd0850d053022b545f9285ec8717e71635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/0fbe4b0f79335ca89ac7346eb6ef03de6887e3f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_d8a4d3304761743edf27b7a96e77a83999230a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/okio-1.14.0_9fad925f5ee995f1bee4a65a05e89171ba112b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/e4bbf8ca900f711049d513733435afebb23385fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_625eeb31717a230c9b09aabbb20af8410c37cbbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/gson-2.8.2_27063eacaabfc1554aab7662f41b90b77ce308e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/simple-xml-2.7.1_be45d93b99eaf354218cb06a7a792c157a4a7db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/9ae027ade1d2a237836b5f2d722469c7e0e3d8d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_c8512d6811e58cd5344ddc83fdec71b45787f735.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/23db5f73133d769cd6bcd955ec1f8c96780c414d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_4448bf9badecc62568e45f7f6e1ab08f60c65b9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.3.3/eb3399988a52099b0127e27fb5bed666eca86ace/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_1e1307b8b2ce245e30605f0fe1c266152f0cdcfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/1f13a2d7678afe6315d74ee88a581af2dd988f8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_6469a7968ea7c3c15cd0f009b41d29a6e364da38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_cc7e0cb260c382277d87c63f04ac10444ae8bd9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/6c093f5376be1a46c51b71cf36eaa74b9162c707/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_10bebb4da655aff8ebae57308ccb0ff75bf6b5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.4.0/fc4aa382632bfaa7be7b41579efba41d5a71ecf3/retrofit-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fc4aa382632bfaa7be7b41579efba41d5a71ecf3">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/retrofit-2.4.0_4bc414a5330321658d7a274a2bc5802910646a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/50cace48933716d4e2693e62eec007814f9ec551/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_e03c785fc4909777c1206e97e72e65a66e3488a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/686d8e783b477e201a900fe9561d38756f41814f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_a9a8af823c62c1e0fb24fb1355ea2bf3edf728e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/df5bb5ba065014da9f3cc84ad476541e0835ce12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_95589e09f03850a8d15be924b31da6de29e9c11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/29ed7399d9d427e5216b82f67b33e0008610f839/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_508049810049c48f2246d90bbf660d3090be9c47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.android/build-cache/f539e501bb709f83a839b47860c953525168edd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/classes_b1689466507b2d254639f3359f068ebd4b22ad06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shreyasmp/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Users/shreyasmp/AndroidStudioProjects/MusicSearchApp/app/build/intermediates/pre-dexed/debug/common-1.1.1_202308862e29dc628418714ef930babbafde1d9c.jar" />
+    </item>
+
+</items>
