@@ -22,11 +22,10 @@ import static shreyas.musicsearchapp.utils.AppConstants.XML;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
- *  Lyrics Presenter class which does the actual service call to fetch the selected list item lyrics
- *  and display to activity. Also the json response from lyrics wikia is not the standard json.
- *  Hence xml format is considered for getting the required data for processing
- *
+ * <p>
+ * Lyrics Presenter class which does the actual service call to fetch the selected list item lyrics
+ * and display to activity. Also the json response from lyrics wikia is not the standard json.
+ * Hence xml format is considered for getting the required data for processing
  */
 
 public class TrackLyricsPresenter implements TrackLyricsActions {
@@ -64,7 +63,7 @@ public class TrackLyricsPresenter implements TrackLyricsActions {
             @Override
             public void onResponse(Call<TrackLyrics> call, Response<TrackLyrics> response) {
                 lyrics = response.body();
-                if(lyrics.getLyrics().equalsIgnoreCase(NO_LYRICS_FOUND)) {
+                if (lyrics.getLyrics().equalsIgnoreCase(NO_LYRICS_FOUND)) {
                     trackLyricsView.displayLyricsNotFound(lyrics);
                 } else {
                     trackLyricsView.displayLyrics(lyrics);

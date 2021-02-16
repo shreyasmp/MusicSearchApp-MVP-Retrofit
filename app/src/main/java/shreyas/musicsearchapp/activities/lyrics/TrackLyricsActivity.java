@@ -24,11 +24,11 @@ import static shreyas.musicsearchapp.utils.AppConstants.TRACK_LYRICS;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
- *  Lyrics Activity to display the album image, artist name , track name and lyrics
- *  Lyrics here is not complete may be due to copyright issues.
- *  What i have done here is, have provided a linkify to ellipsis in lyrics screen on clicking
- *  takes the user to default intent api which is browser and opens up the entire lyrics page
+ * <p>
+ * Lyrics Activity to display the album image, artist name , track name and lyrics
+ * Lyrics here is not complete may be due to copyright issues.
+ * What i have done here is, have provided a linkify to ellipsis in lyrics screen on clicking
+ * takes the user to default intent api which is browser and opens up the entire lyrics page
  */
 
 public class TrackLyricsActivity extends AppCompatActivity implements TrackLyricsView {

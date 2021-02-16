@@ -4,8 +4,8 @@ import com.google.gson.annotations.SerializedName;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
- *  Track Details model class
+ * <p>
+ * Track Details model class
  */
 
 public class TrackDetails {

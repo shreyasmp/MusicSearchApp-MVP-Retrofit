@@ -30,14 +30,13 @@ import static shreyas.musicsearchapp.utils.AppConstants.TRACK_LYRICS;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
+ * <p>
  * Search activity used for typing artist or track name which hits the apple music itunes api
  * to get the list of all the songs related to that artist or song related.
- *  TDD approach using MVP model
- *
+ * TDD approach using MVP model
  */
 
-public class TrackSearchActivity extends AppCompatActivity implements TrackSearchView, TrackOnClickListener{
+public class TrackSearchActivity extends AppCompatActivity implements TrackSearchView, TrackOnClickListener {
 
     private static final String TAG = TrackSearchActivity.class.getSimpleName();
     private SearchActivityBinding binding;
@@ -102,7 +101,7 @@ public class TrackSearchActivity extends AppCompatActivity implements TrackSearc
 
     @Override
     public void showTrackResults(TrackSearchResults results) {
-        if(results != null) {
+        if (results != null) {
             trackResultsAdapter.setTrackDetailsArrayListData(results.getTracks());
             binding.musicSearchList.scrollToPosition(0);
         }
@@ -112,7 +111,7 @@ public class TrackSearchActivity extends AppCompatActivity implements TrackSearc
 
     @Override
     public void setTrackListVisibility(boolean visibility) {
-        if(visibility) {
+        if (visibility) {
             binding.musicSearchList.setVisibility(VISIBLE);
         } else {
             binding.musicSearchList.setVisibility(View.INVISIBLE);
@@ -123,7 +122,7 @@ public class TrackSearchActivity extends AppCompatActivity implements TrackSearc
 
     @Override
     public void setLoader(boolean loader) {
-        if(loader) {
+        if (loader) {
             binding.progressBar.setVisibility(VISIBLE);
         } else {
             binding.progressBar.setVisibility(View.INVISIBLE);

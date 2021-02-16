@@ -9,7 +9,7 @@ import static shreyas.musicsearchapp.utils.AppConstants.WIKIA_LYRICS_URL;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
+ * <p>
  * Lyrics Service call for hitting the wiki lyrics api
  * Have used xml format as the provided json format was not as per json standards
  * Could have used dirty json parser but standard json format is what most apps work on
@@ -31,7 +31,7 @@ public class TrackLyricServiceCall {
 
         okHttpClient = new OkHttpClient.Builder().addInterceptor(httpLoggingInterceptor).build();
 
-        if(retrofit == null) {
+        if (retrofit == null) {
             retrofit = new Retrofit.Builder()
                     .baseUrl(BASE_URL)
                     .addConverterFactory(SimpleXmlConverterFactory.create())

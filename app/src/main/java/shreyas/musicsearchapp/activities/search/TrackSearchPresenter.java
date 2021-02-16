@@ -9,9 +9,8 @@ import shreyas.musicsearchapp.rest.search.TrackSearchServiceCall;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
+ * <p>
  * Search presenter , this class does the actual service call and displays the track list to search activity
- *
  */
 
 public class TrackSearchPresenter implements TrackSearchActions {
@@ -23,7 +22,7 @@ public class TrackSearchPresenter implements TrackSearchActions {
 
     public TrackSearchPresenter(TrackSearchView trackSearchView) {
         this.trackSearchView = trackSearchView;
-        this.serviceCall =  new TrackSearchServiceCall();
+        this.serviceCall = new TrackSearchServiceCall();
     }
 
     // search for the track from artist name enter in text box
@@ -46,7 +45,7 @@ public class TrackSearchPresenter implements TrackSearchActions {
                         // decrementing counter for idle resource time
                         EspressoIdling.decrementCounter();
                         results = response.body();
-                        if(results.getTracks().isEmpty()) {
+                        if (results.getTracks().isEmpty()) {
                             trackSearchView.setTrackListVisibility(false);
                             trackSearchView.setLoader(false);
                             trackSearchView.showErrorMessage();

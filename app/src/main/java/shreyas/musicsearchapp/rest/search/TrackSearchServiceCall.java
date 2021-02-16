@@ -9,11 +9,11 @@ import static shreyas.musicsearchapp.utils.AppConstants.APPLE_ITUNES_URL;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
+ * <p>
  * Service call for Track API which hits the iTunes api provided
  * JSON format was in standard format when validated hence went ahead with
- *  Gson json factory method.
- *  Okhttp here provides response caching and logging rather than repetitive network calls
+ * Gson json factory method.
+ * Okhttp here provides response caching and logging rather than repetitive network calls
  */
 
 public class TrackSearchServiceCall {
@@ -32,7 +32,7 @@ public class TrackSearchServiceCall {
 
         okHttpClient = new OkHttpClient.Builder().addInterceptor(httpLoggingInterceptor).build();
 
-        if(retrofit == null) {
+        if (retrofit == null) {
             retrofit = new Retrofit.Builder()
                     .baseUrl(BASE_URL)
                     .addConverterFactory(GsonConverterFactory.create())

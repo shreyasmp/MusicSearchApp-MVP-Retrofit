@@ -6,8 +6,8 @@ import java.util.ArrayList;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
- *  Track search results of outer response model
+ * <p>
+ * Track search results of outer response model
  */
 
 public class TrackSearchResults {

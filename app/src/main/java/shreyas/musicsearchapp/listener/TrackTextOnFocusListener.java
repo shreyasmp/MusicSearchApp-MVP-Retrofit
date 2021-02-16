@@ -26,14 +26,14 @@ public class TrackTextOnFocusListener implements View.OnFocusChangeListener {
 
     @Override
     public void onFocusChange(View v, boolean hasFocus) {
-        if(hasFocus) {
-            if(editText.getText().toString().isEmpty()) {
+        if (hasFocus) {
+            if (editText.getText().toString().isEmpty()) {
                 imageView.setVisibility(GONE);
             } else {
                 imageView.setVisibility(VISIBLE);
             }
         } else {
-            if(editText.getText().toString().isEmpty()) {
+            if (editText.getText().toString().isEmpty()) {
                 imageView.setVisibility(GONE);
             } else {
                 imageView.setVisibility(GONE);

@@ -4,9 +4,8 @@ import shreyas.musicsearchapp.model.TrackSearchResults;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
+ * <p>
  * View interface for Search screen
- *
  */
 
 public interface TrackSearchView {
@@ -22,5 +21,4 @@ public interface TrackSearchView {
     void hideErrorMessage();
 
     void clearSearchBox();
-
 }

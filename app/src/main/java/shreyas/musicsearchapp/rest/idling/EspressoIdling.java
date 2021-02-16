@@ -4,9 +4,9 @@ import android.support.test.espresso.IdlingResource;
 
 /**
  * Created by shreyasmp on 9/8/17.
- *
- *  This class holds the counter and idle resource tracking for tests that are run
- *  Reference {@link IdlingResource}
+ * <p>
+ * This class holds the counter and idle resource tracking for tests that are run
+ * Reference {@link IdlingResource}
  */
 
 public class EspressoIdling {
