@@ -19,12 +19,12 @@ import shreyas.musicsearchapp.model.TrackDetails;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
- *  Recycler view adapter for displaying track lists with album name, album art and track name and artist
- *  in each row. View holder pattern is used with recycler view
+ * <p>
+ * Recycler view adapter for displaying track lists with album name, album art and track name and artist
+ * in each row. View holder pattern is used with recycler view
  */
 
-public class TrackResultsAdapter extends RecyclerView.Adapter<TrackResultsAdapter.ViewHolder>{
+public class TrackResultsAdapter extends RecyclerView.Adapter<TrackResultsAdapter.ViewHolder> {
 
     private Context context;
     private TrackOnClickListener trackOnClickListener;
@@ -70,7 +70,7 @@ public class TrackResultsAdapter extends RecyclerView.Adapter<TrackResultsAdapte
         notifyDataSetChanged();
     }
 
-    public class ViewHolder extends RecyclerView.ViewHolder{
+    public class ViewHolder extends RecyclerView.ViewHolder {
 
         public ImageView albumArt;
         public TextView trackName;

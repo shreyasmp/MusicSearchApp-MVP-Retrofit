@@ -17,11 +17,11 @@ import shreyas.musicsearchapp.espressorobot.Robot;
 
 /**
  * Created by shreyasmp on 9/8/17.
- *
- *  Class to run UI Tests on the app, with TDD approach used for developing this app.
- *  Have made use of reusable test events from Robot class for performing various tests.
- *  Since there is a overhead of network call, Espresso has to be informed to sync actions
- *  when performing tests
+ * <p>
+ * Class to run UI Tests on the app, with TDD approach used for developing this app.
+ * Have made use of reusable test events from Robot class for performing various tests.
+ * Since there is a overhead of network call, Espresso has to be informed to sync actions
+ * when performing tests
  */
 
 @RunWith(AndroidJUnit4.class)
@@ -49,18 +49,18 @@ public class RunTest {
 
     @Test
     public void searchArtist() {
-                robo
+        robo
                 .typeInSearchBox("Linkin Park")
                 .clickSearch()
                 .listDisplayed()
-                        .clickOnChildItem();
+                .clickOnChildItem();
     }
 
     // Test to run with specified unknown text and check for error message and its text
 
     @Test
     public void searchSomething() {
-                robo.progressBarHidden()
+        robo.progressBarHidden()
                 .typeInSearchBox("#$@#$$@$@$@")
                 .clickSearch()
                 .progressBarHidden()
@@ -72,7 +72,7 @@ public class RunTest {
     // And select first item from list
 
     @Test
-    public void checkClearAndSearch(){
+    public void checkClearAndSearch() {
         robo.typeInSearchBox("Led Zeppelin")
                 .clickClearSearch()
                 .typeInSearchBox("Pink Floyd")
@@ -97,5 +97,4 @@ public class RunTest {
     public void unRegisterIdlingResource() {
         Espresso.unregisterIdlingResources(searchActivityTrackerTestRule.getActivity().getIdlingResource());
     }
-
 }

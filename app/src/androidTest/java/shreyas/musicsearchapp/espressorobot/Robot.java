@@ -16,11 +16,10 @@ import static org.hamcrest.core.IsNot.not;
 
 /**
  * Created by shreyasmp on 9/8/17.
- *
+ * <p>
  * Class Robot used for creating espresso based test events that perform text match and click actions
  * The reusable components written here can be used for multiple combination of tests for each test cases
  * TDD approach is used here for the app
- *
  */
 
 public class Robot {
@@ -38,10 +37,10 @@ public class Robot {
 
     public Robot clickClearSearch() {
         onView(withId(R.id.clear_search)).perform(click());
-        return  this;
+        return this;
     }
 
-    public Robot progressBarHidden(){
+    public Robot progressBarHidden() {
         onView(withId(R.id.progress_bar)).check(ViewAssertions.matches(not(isDisplayed())));
         return this;
     }

@@ -9,8 +9,8 @@ import shreyas.musicsearchapp.model.TrackLyrics;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
- *  Retrofit based API for lyrics
+ * <p>
+ * Retrofit based API for lyrics
  */
 
 public interface TrackLyricsAPI {

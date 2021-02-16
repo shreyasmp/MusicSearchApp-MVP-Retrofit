@@ -7,7 +7,7 @@ import shreyas.musicsearchapp.model.TrackSearchResults;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
+ * <p>
  * Search API based on retrofit
  */
 

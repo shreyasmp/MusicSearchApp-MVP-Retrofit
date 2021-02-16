@@ -14,8 +14,8 @@ import static org.mockito.Mockito.verify;
 
 /**
  * Created by shreyasmp on 9/8/17.
- *
- *  Track Search actvity junit tests
+ * <p>
+ * Track Search activity junit tests
  */
 
 @RunWith(MockitoJUnitRunner.class)

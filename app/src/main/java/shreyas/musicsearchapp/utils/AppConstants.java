@@ -31,5 +31,4 @@ public interface AppConstants {
     String NO_LYRICS_FOUND = "No Lyrics Found";
 
     String PATTERN_SQUARE_BRACKET = "\\[(?<!\\.)\\.{3}(?!\\.)]";
-
 }

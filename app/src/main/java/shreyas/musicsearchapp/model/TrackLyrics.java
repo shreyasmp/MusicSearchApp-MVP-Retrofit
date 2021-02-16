@@ -4,13 +4,12 @@ import org.simpleframework.xml.Element;
 
 /**
  * Created by shreyasmp on 9/7/17.
- *
- *  Track lyrics model class.
- *  Considered the api output in xml format for better results
+ * <p>
+ * Track lyrics model class.
+ * Considered the api output in xml format for better results
  */
 
 public class TrackLyrics {
-
 
     @Element(name = "artist")
     private String artist;
@@ -24,10 +23,10 @@ public class TrackLyrics {
     @Element(name = "url")
     private String url;
 
-    @Element (name = "page_namespace")
+    @Element(name = "page_namespace")
     private String page_namespace;
 
-    @Element (name = "page_id")
+    @Element(name = "page_id")
     private int page_id;
 
     @Element(name = "isOnTakedownList")
@@ -88,6 +87,4 @@ public class TrackLyrics {
     public void setIsOnTakedownList(int isOnTakedownList) {
         this.isOnTakedownList = isOnTakedownList;
     }
-
-
 }

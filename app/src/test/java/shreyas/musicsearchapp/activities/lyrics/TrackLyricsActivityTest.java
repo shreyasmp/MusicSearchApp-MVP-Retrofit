@@ -15,8 +15,8 @@ import static org.mockito.Mockito.verify;
 
 /**
  * Created by shreyasmp on 9/8/17.
- *
- *  Track Lyrics Activity Test including Junit test cases
+ * <p>
+ * Track Lyrics Activity Test including Junit test cases
  */
 
 @RunWith(MockitoJUnitRunner.class)
@@ -64,5 +64,4 @@ public class TrackLyricsActivityTest {
         TrackDetails trackDetails = null;
         verify(trackLyricsView).displayLyricsViews(trackDetails);
     }
-
 }

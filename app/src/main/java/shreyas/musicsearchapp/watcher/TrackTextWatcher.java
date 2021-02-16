@@ -11,11 +11,11 @@ import static android.view.View.VISIBLE;
 
 /**
  * Created by shreyasmp on 9/8/17.
- *
- *  Watcher for displaying clear button cross in search box
+ * <p>
+ * Watcher for displaying clear button cross in search box
  */
 
-public class TrackTextWatcher implements TextWatcher{
+public class TrackTextWatcher implements TextWatcher {
 
     private Context context;
     private EditText editText;
@@ -39,7 +39,7 @@ public class TrackTextWatcher implements TextWatcher{
 
     @Override
     public void afterTextChanged(Editable s) {
-        if(editText.getText().toString().isEmpty()) {
+        if (editText.getText().toString().isEmpty()) {
             imageView.setVisibility(GONE);
         } else {
             imageView.setVisibility(VISIBLE);
